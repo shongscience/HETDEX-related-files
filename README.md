@@ -11,5 +11,6 @@ Codes related to the HETDEX survey
   
   Some terrestrial weather patterns leave their traits as "short-term unexpected correlated errors" on powerspectrum measurements and lunar phases also as "periodic correlated errors". 
   
-  This program estimates these two errors for each temporal filling pattern using my "ruler model".   
+  2.2 Ruler Model:
   
+  This program estimates these two errors for each temporal filling pattern using my "ruler model". You can contact me for the mathematical details about the rule model. 
