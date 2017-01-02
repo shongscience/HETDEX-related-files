@@ -3,7 +3,7 @@ Codes related to the HETDEX survey
 
 1. the "falltest" folder is for tracking the progress of the current fall field observations. A trivial python script. 
 
-2. the "optimizingplan" folder is for investigating how to minimize the effect of time-dependent sampling patterns on power spectrum measurement. A relatively long serious cpp program. 
+2. the "optimizingplan" folder is for investigating how to minimize the effect of time-dependent sampling pattern on power spectrum measurement. A relatively long serious cpp program. 
   
   2.1 Problem Description: 
   
