@@ -7,9 +7,9 @@ Codes related to the HETDEX survey
   
   2.1 Problem Description: 
   
-  The Hetdex survey consists of 4000+ shots to cover a large amount of sky for detecting BAOs from spectroscopic LAEs. If we have N shots, theoretically we have N!(factorial) kinds of combinations of "temportal sequence" to fill out the scheduled shots. 
+  The Hetdex survey consists of 4000+ shots to cover a large amount of sky for detecting BAOs from spectroscopic LAEs. If we have N shots, theoretically we have N!(factorial) kinds of combinations of "temportal sequence" to fill out the scheduled shots; "temporal observing patterns". 
   
   Some terrestrial weather patterns leave their traits as "short-term unexpected correlated errors" on powerspectrum measurements and lunar phases also as "periodic correlated errors". 
   
-  
+  This program estimates these two errors for each temporal filling pattern using my "ruler model".   
   
